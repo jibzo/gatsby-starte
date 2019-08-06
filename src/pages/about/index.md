@@ -8,7 +8,7 @@ Coffee is a small tree or shrub that grows in the forest understory in its wild 
 
 
 
-![](/img/p8040831.jpg)
+![some text](/img/p8040831.jpg "title")
 
 ### Single origin
 
